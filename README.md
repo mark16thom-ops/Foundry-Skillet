@@ -1,17 +1,72 @@
 # Foundry-Skillet
-Cope And Drag given to us for the pattern to be placed in
-placing the mold inside the Cope first and pouring the resin covered sand into the pattern
-We Flatten and ram the sand to get into every part and crack of the pattern
-Wait approx. 3 minutes and 30 seconds before turning over Cope to knock out the nnwly made mold
-Repeat this process once again for Drag and bottom of the pattern placing a wooden block in the way acting as the riser 
-Waiting 3mins and 30 seconds to once again knock out the pattern half
-We then use a pressurized to blow out the mold hlaf's of any loose sand in the way
-using a strong adhesive glue upon the ring of the cope made model
-flipping it over placing it on top of the drag made model lining up the riser made hole for the metal to run through and fill the mold
-placing the finished mold over in the sand pit to prepare for the molten metal to pur through
-Teachers then bring the superheated metal over to the mold pouring it in and filling the mold 
-Waiting 36 hours for the superheated metal to cool
-breaking open the sand mold and taking out our skillet
-taking the skillet over to the saw to shave off the larger portions of the new skillet
-using the grinder to grind down the sharper fragments of the newly made skillet 
--Finished-
+🍳 Cast Iron Skillet Casting Project
+Overview
+
+This project documents the process of creating a cast iron skillet using the cope and drag sand casting method. A provided skillet pattern and resin-coated sand molds were used to form the mold, followed by molten cast iron pouring, cooling, and post-casting finishing to produce a functional cast iron skillet.
+
+🧰 Materials and Equipment
+
+Cope and Drag (casting frames)
+
+Cast Iron Skillet Pattern
+
+Resin-Coated Sand
+
+Wooden Block (Riser)
+
+Parting / Release Agent
+
+Pressurized Air (for mold cleaning)
+
+Adhesive Mold Glue
+
+Molten Cast Iron
+
+Sand Pit
+
+Metal Saw
+
+Grinder
+
+🏗️ Process Steps
+Mold Preparation
+
+Placed the skillet pattern into the cope and filled it with resin-coated sand.
+
+Rammed and flattened the sand to ensure it filled all details and cavities of the pattern.
+
+Allowed the sand to cure for approximately 3 minutes and 30 seconds.
+
+Carefully flipped the cope and removed the hardened mold from the pattern.
+
+Repeated the process for the drag, placing a wooden block to act as the riser.
+
+After curing, knocked out the pattern from the drag mold.
+
+Mold Cleaning and Assembly
+
+Used pressurized air to remove any loose sand from both mold halves.
+
+Applied a strong adhesive around the rim of the cope mold.
+
+Aligned and placed the cope on top of the drag, ensuring the riser hole was properly aligned to allow molten metal flow.
+
+Transferred the completed mold to the sand pit in preparation for pouring.
+
+Metal Pouring and Casting
+
+Instructors poured superheated molten cast iron into the mold through the riser system.
+
+Allowed the casting to cool and solidify for approximately 36 hours.
+
+Broke open the sand mold and carefully removed the cast iron skillet.
+
+Finishing
+
+Removed excess material using a metal saw.
+
+Ground down sharp edges and remaining fragments with a grinder to produce a smooth and safe finish.
+
+🍳 Final Product
+
+The final product is a solid cast iron skillet, produced using traditional foundry sand-casting techniques. This project demonstrates proper mold preparation, riser placement, metal pouring, cooling control, and post-casting finishing methods commonly used in industrial foundry operations.
